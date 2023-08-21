@@ -21,7 +21,7 @@ export default function Sidebar() {
                     </li>
                     <li className="border m-2">
                         <a
-                            href="https://github.com/vishal-bot/ContactManagement" target="_blank"
+                            href="https://github.com/vishal-bot/contact-management" target="_blank"
                             className="items-center p-2 font-bold">
                             <span>GitHub Repo</span>
                         </a>
