@@ -1,6 +1,6 @@
 # This Project is Part of Recruitment Task of Taiyo.ai
 
-<h1> Requirements Mentioned Below</h1>
+## Requirements Mentioned Below
 Create a contact management app with Charts and Maps using ReactJS, TypeScript,
 TailwindCSS, React Router v6 and React Query aka TanstackQuery. Please create a
 GitHub/GitLab repo and possibly deploy your app on free services like Vercel, Github
@@ -20,11 +20,13 @@ Build a simple dashboard with:
 of active, recovered cases and deaths in that particular country as a popup.
 
 
-<h1> Api Used to Create Dashboards </h1>
+## Api Used to Create Dashboards
 World wide data of cases: https://disease.sh/v3/covid-19/all
 Country Specific data of cases: https://disease.sh/v3/covid-19/countries
 Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
-<h1>Technologies Used</h1>
+
+
+### Technologies Used
 <ul>
     <li>ReactJs
     </li>
@@ -35,11 +37,9 @@ Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?la
     </li> 
 </ul>
 
-<h1><strong> Development Installation </strong></h1>
+## Local Machine Installation
 
 Follow these instructions to set up your development environment, which you need to do before you start contributing code to this project.
-
-<h1><strong> Local Machine Installation </strong></h1>
 
 _Note_: The installation steps assume you are using a Unix-like shell. If you are using Windows, you will need to use `copy` instead of `cp`.
 
